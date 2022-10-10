@@ -1,0 +1,21 @@
+#puzzle{
+    border: 1px solid black;
+    position: relative;
+    float: left;
+    display: inline-block;  
+    
+}
+
+#cap{
+    
+    display: block;
+    float: left;
+    margin: 0px 20px 20px 20px;
+
+}
+
+#name{
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
